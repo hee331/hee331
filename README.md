@@ -1,2 +1,2 @@
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,python,django,go,react,mysql,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,next.js,node.js,python,django,go,mysql,docker,aws)](https://skillicons.dev)
