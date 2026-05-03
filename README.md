@@ -12,3 +12,5 @@
     <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemI1eXRsMm1jb291MzBkeGQzYWJvaXRqeHZ1ZWlwdXZ6dTh0dXgwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YPUA7s6l6vZ7eMI7L3/giphy.gif" width="200"></td>
   </tr>
 </table>
+
+![Static Badge](https://img.shields.io/badge/LeetCode?style=flat&link=https%3A%2F%2Fleetcode.com%2Fu%2Fhee331%2F)
