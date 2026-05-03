@@ -1,6 +1,7 @@
 # INTRODUCTION && SKILLS <table>
 
 <br>
+<br>
 
 ### Full-stack Developer & Business Economics Student
 - Tech Stack: Python (Django/DRF), JavaScript (React/Next.js), Data Science
