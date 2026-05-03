@@ -13,4 +13,3 @@
   </tr>
 </table>
 
-![Static Badge](https://img.shields.io/badge/LeetCode?style=flat&link=https%3A%2F%2Fleetcode.com%2Fu%2Fhee331%2F)
