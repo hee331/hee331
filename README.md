@@ -1,6 +1,6 @@
 ## INTRODUCTION && SKILLS
 
-
+## Full-stack Developer & Business Economics Student
 
 
 
