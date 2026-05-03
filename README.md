@@ -1,8 +1,4 @@
 # INTRODUCTION && SKILLS <table>
-  <tr>
-    <td><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZhNzd4dWFlbzVnNTAwNTdyeTN1N2oyODRpNm1jb2l2cTB0c2I1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wLqDgrwkOC6PoqKgZT/giphy.gif" width="100"></td>
-  </tr>
-</table>
 
 ### Full-stack Developer & Business Economics Student
 
