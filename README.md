@@ -15,7 +15,7 @@
 
 <br><br>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,tailwindcss,js,ts,react,nextjs,python,django,go,mysql,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,tailwindcss,js,ts,react,nextjs,python,django,go,mysql,docker,aws,vercel)](https://skillicons.dev)
 
 
 
