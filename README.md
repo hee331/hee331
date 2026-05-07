@@ -2,10 +2,10 @@
 
 <br><br>
 
-### Full-Stack Developer & Business Economics student
+### Full-Stack Developer & Business Economics Student
 - Tech Stack: Python (Django/DRF), JavaScript (React/Next.js), Data Science
 - 💡 Focus: Building scalable web applications and solving complex problems through data and algorithms.
-- 🎓 Academic: Business Economics at the University at Japan.
+- 🎓 Academic: BCom/major:Business Economics at the University at Japan.
 - 📈 Goal: Bridging the gap between business strategy and technical implementation.
   
   
